@@ -40,24 +40,10 @@ The smart contract is deployed at the following address:
 
 
 ### Transaction 
-
-![Transaction Screenshot](<Insert_Screenshot_URL_Here>)<img width="948" alt="Transition" src="https://github.com/user-attachments/assets/26d8ca57-c096-4eb8-8e91-94825fd54623">
+(<Insert_Screenshot_URL_Here>)<img width="948" alt="Transition" src="https://github.com/user-attachments/assets/26d8ca57-c096-4eb8-8e91-94825fd54623">
 
 
 - **Transaction ID**: `0x2383c92827a022c699b77afc9a688ee4a3bdec240f40aa8435de8e8de7e39bf7`
-
-
-## Future Scope
-
-- **Enhanced User Interface**: Develop a user-friendly web or mobile application to interact with the smart contract, making it easier for users to add and borrow books.
-
-- **Return Functionality**: Implement a feature to allow users to return borrowed books, updating the number of available copies.
-
-- **Search and Filter Options**: Integrate advanced search and filter options for users to find books based on categories, titles, or authors.
-
-- **Analytics Dashboard**: Create an analytics dashboard for owners to view statistics on book borrowing trends and popular titles.
-
-- **Community Features**: Introduce community-driven features such as book reviews, ratings, and recommendations to enhance user engagement.
 
 ## Getting Started
 
