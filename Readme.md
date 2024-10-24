@@ -40,7 +40,7 @@ The smart contract is deployed at the following address:
 
 
 ### Transaction 
-(<Insert_Screenshot_URL_Here>)<img width="948" alt="Transition" src="https://github.com/user-attachments/assets/26d8ca57-c096-4eb8-8e91-94825fd54623">
+<img width="948" alt="Transition" src="https://github.com/user-attachments/assets/26d8ca57-c096-4eb8-8e91-94825fd54623">
 
 
 - **Transaction ID**: `0x2383c92827a022c699b77afc9a688ee4a3bdec240f40aa8435de8e8de7e39bf7`
